@@ -3,5 +3,5 @@ if [ $count_pratik -gt 0 ]; then
 echo "Put Pratik ID" >> /home/administrator/screen_update.txt
 sed -i 's/pratik.mohanty//g' /home/administrator/screenshot/screenshot.sh
 else
-echo "Hurreeeyyyy" >> /home/administrator/screen_update.txt
+echo "Hurreee" >> /home/administrator/screen_update.txt
 fi
